@@ -1,0 +1,30 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    border: 2px solid palegreen;
+    background-color: green;
+    color: #fff;
+    border-radius: 6px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 3px;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    background-color: paleturquoise;
+    cursor: pointer;
+    border-radius: 8px;
+    border-color: green;
+}
+button:hover{
+    background-color: #fff;
+}
+img{
+    border-radius: 8px;
+}
